@@ -1,0 +1,76 @@
+[
+    {
+      "testcases": [
+        {
+          "name": "test_case1",
+          "weightage": 0.1
+        },
+        {
+          "name": "test_case2",
+          "weightage": 0.1
+        },
+        {
+          "name": "test_case3",
+          "weightage": 0.1
+        },
+        {
+          "name": "test_case4",
+          "weightage": 0.1
+        },
+        {
+          "name": "test_case5",
+          "weightage": 0.1
+        }
+      ],
+      "testcase_path": "/home/coder/project/workspace/puppeteer",
+      "evaluation_type": "Puppeteer",
+      "testcase_run_command": "node /home/coder/project/workspace/puppeteer/test.js"
+    },
+    {
+      "testcases": [
+        {
+          "name": "test_case6",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case7",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case8",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case9",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case10",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case11",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case12",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case13",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case14",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case15",
+          "weightage": 0.05
+        }
+      ],
+      "testcase_path": "/home/coder/project/workspace/karma",
+      "evaluation_type": "Karma",
+      "testcase_run_command": "sh /home/coder/project/workspace/karma/karma.sh"
+    }
+  ]
